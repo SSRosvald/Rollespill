@@ -1,0 +1,5 @@
+---
+world: "[[Campaings/Nth °  World/Locations/Nth °  World]]"
+campaign: Nth World
+---
+Stier og spor leder mot noe som ser ut som en kald, grå, hule av stål. På innsiden utfører druidene et ritual for å gjøre landsbyboerne om til cyborger. Dette er frivillig, men eventyrerne vet ikke. Dette gjøres ved å tappe en “gud” for blod, og servere til de frivillige. Denne “guden”, Halvar, er Tibalt her for å redde. Han har dårlig samvittighet for at Halvar ble kastet gjennom den blinde evigheten, og endte opp på dette gudforlatte stedet. Halvar vil ikke bli reddet av hvem en han påstår at han er, blodsbror eller ei (Valki, løgnguden), og ber om at eventyrerne feller denne bedrageren der han står. Tibalt sier at Halvar hadde suksess da han beskyttet Bretagard mot Daumennene. Bretagard er trygg, og Alrund vil se han returnere hjem. Hva med Rikesverdet? Det har Tibalt tatt som souvenir før han drar videre.
