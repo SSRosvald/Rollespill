@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1708812098387,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1708812230451,
+          "path": "2. Mechanics/Books/Adventurers Guide.pdf",
+          "title": "0.Adventurers Guide"
+        },
+        {
+          "type": "file",
+          "ctime": 1708812260004,
+          "path": "2. Mechanics/Books/Trials and Treasures.pdf",
+          "title": "0.Trials and Treasures"
+        },
+        {
+          "type": "file",
+          "ctime": 1708812273681,
+          "path": "2. Mechanics/Books/Monstrous Menagerie.pdf",
+          "title": "0.Monstrous Menagerie"
+        },
+        {
+          "type": "file",
+          "ctime": 1708812302761,
+          "path": "2. Mechanics/Books/Gate Pass Gazette 2022.pdf",
+          "title": "1.GPG2022"
+        },
+        {
+          "type": "file",
+          "ctime": 1708812315745,
+          "path": "2. Mechanics/Books/Gate Pass Gazette 2023.pdf",
+          "title": "1.GPG2023"
+        }
+      ],
+      "title": "Books"
+    }
+  ]
+}
