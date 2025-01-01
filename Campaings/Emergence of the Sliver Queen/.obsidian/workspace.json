@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "da90f6720a1f59a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "186150c6c9681424",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ba0f16314bd8d6c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Types & Descriptors Forgotten Realms.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ba5f90326b68dca",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c50ffa435fd658f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b99f8c3264665b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5b011d3222ab18a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6482a68ec64dae73",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5844682081b19f85",
+    "type": "split",
+    "children": [
+      {
+        "id": "db8e1d3be21a93d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73cd81327929eb67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Types & Descriptors Forgotten Realms.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21a1dd12e623322b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Types & Descriptors Forgotten Realms.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b6364d91954e0eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d32509174e05250d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Types & Descriptors Forgotten Realms.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0ba0f16314bd8d6c",
+  "lastOpenFiles": [
+    "Monstre/Earthshaker.jpg",
+    "Monstre/786px-Sliver_Queen.jpg",
+    "06563eb9-47fe-470d-9b70-8d52a4054576.jpg",
+    "Belos.md",
+    "Eilistraee.md",
+    "Untitled.canvas",
+    "Keeps a magic Ally.pdf",
+    "the 0,25 mile at a time.pdf",
+    "Types & Descriptors Forgotten Realms.pdf",
+    "Karakterer/Orc 3 screenshot.png",
+    "Karakterer/Roy.png",
+    "Byer/City_-_Elturel__labeled_.png",
+    "Karakterer/Sen Cho screenshot(1).png",
+    "Karakterer/Torkild screenshot.png",
+    "Karakterer/Triel.PNG",
+    "Karakterer/Orc 4 screenshot.png",
+    "Karakterer/Orc 2 screenshot.png",
+    "Byer/Paham.pdf",
+    "Inn i trållmanstårnet.mp3",
+    "Forgotten Realms Campaign Design Sheet.pdf",
+    "Spell Writing Template.xcf",
+    "Sen Cho screenshot 2.xcf",
+    "Sen Cho screenshot 1.xcf",
+    "Map-Forgotten-Realms-Med.xcf"
+  ]
+}
