@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "d1ca53fb381ba06b",
+    "type": "split",
+    "children": [
+      {
+        "id": "68ce786ccd62130c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6882b7f711773185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaings/Age of Worms/0. GMscreen/0. GMscreen.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad9084eb4c0471c4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Campaings/Guild Wars/Characters/AU Hariaz Azfik Print.pdf"
+              }
+            }
+          },
+          {
+            "id": "72a8d32a88ea7854",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "13902907527809ea",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Campaings/Age of Worms/1. The Whispering Cairn V H.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52e2ae9fe12fe120",
+    "type": "split",
+    "children": [
+      {
+        "id": "31a18dc11b94c525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82b31aec59472905",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a662ebcec148b952",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abf923e3c249d289",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "56fad385dcb58329",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.5
+  },
+  "right": {
+    "id": "1bcb3cf3110159fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9d06830dd11e9b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cadd12ae0369d7c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8d816c479f45a8d",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_899b2a29394a",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 6,
+                    "month": 8,
+                    "year": 102
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                }
+              }
+            }
+          },
+          {
+            "id": "e40d2d99d19fbb97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campaings/Age of Worms/1. The Whispering Cairn V H.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b824e9a63c745468",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campaings/Age of Worms/1. The Whispering Cairn V H.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6f5e52b23f77beb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaings/Age of Worms/1. The Whispering Cairn V H.pdf"
+              }
+            }
+          },
+          {
+            "id": "ce556768a29ddc9e",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7a460d7b902ad45",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "workspaces:Manage workspace layouts": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "13902907527809ea",
+  "lastOpenFiles": [
+    "Campaings/Lost -Aldria/Worldbuilding.md",
+    "Campaings/Lost -Aldria/z_Assets/Pasted image 20240402192653.png",
+    "Campaings/Lost -Aldria/2. Mechanics/Items/Black Water.md",
+    "Campaings/Lost -Aldria/Black Water.md",
+    "Campaings/Lost -Aldria/2. Mechanics/Items/Angel's Trumpet.md",
+    "Campaings/Lost -Aldria/Angel's Trumpet.md",
+    "Campaings/Lost -Aldria/2. Mechanics/Items/Alcohol.md",
+    "Campaings/Lost -Aldria/Alcohol.md",
+    "Campaings/Lost -Aldria/2. Mechanics/Items/Æther.md",
+    "Campaings/Lost -Aldria/Æther.md",
+    "Campaings/Lost -Aldria/2. Mechanics/Items/Drugs.md",
+    "Campaings/Lost -Aldria/2. Mechanics/Items/Untitled.md",
+    "Campaings/Lost -Aldria/2. Mechanics/Dangers/Disease/Addiction.md",
+    "Campaings/Lost -Aldria/2. Mechanics/Dangers/Disease/Untitled.md",
+    "Campaings/Lost -Aldria/2. Mechanics/Dangers/Afflictions",
+    "Campaings/Lost -Aldria/2. Mechanics/Dangers/Untitled",
+    "Campaings/Lost -Aldria/2. Mechanics/Guilds and Groups/Barn av Never.md",
+    "Campaings/Lost -Aldria/Barn av Never.md",
+    "Campaings/Lost -Aldria/1. World/History/Konvergensen.md",
+    "Campaings/Lost -Aldria/2. Session Journals/Sessions/Session 3.md",
+    "Campaings/Lost -Aldria/2. Mechanics/Non-Player Character/Enmebar.md",
+    "Campaings/Lost -Aldria/Enmebar.md",
+    "Campaings/Lost -Aldria/2. Mechanics/Non-Player Character/Hua.md",
+    "Campaings/Lost -Aldria/Hua.md",
+    "Campaings/Lost -Aldria/2. Mechanics/Guilds and Groups/Team Birch (BICH).md",
+    "Campaings/Lost -Aldria/Plot/History/Konvergensen.md",
+    "Campaings/Lost -Aldria/Plot/History",
+    "Campaings/Lost -Aldria/Plot",
+    "Campaings/Lost -Aldria/Konvergensen.md",
+    "Campaings/Lost -Aldria/Untitled.md",
+    "Campaings/Lost -Aldria/2. Mechanics/Items/Deck of Minor Things.md",
+    "Campaings/Lost -Aldria/2. Mechanics/Items/~$Losn-A.pptx",
+    "Campaings/Lost -Aldria/2. Mechanics/Items/Losn-A.pptx",
+    "Campaings/Lost -Aldria/Creatures/Players",
+    "Campaings/Lost -Aldria/Creatures",
+    "Campaings/Lost -Aldria/z_Assets/cmm-372-brass-knuckles.jpg",
+    "2. Mechanics/Non-Player Character",
+    "2. Mechanics",
+    "Campaings/Guild Wars/5E/The Scale.PNG",
+    "Campaings/Guild Wars/5E/Spells Prepared.PNG",
+    "Campaings/Guild Wars/5E/RE&.logo.png",
+    "Campaings/Guild Wars/5E/Minotaur Racials.PNG",
+    "Campaings/Guild Wars/5E/Legacy.PNG",
+    "Campaings/Guild Wars/5E/Character Sheets/MODULAR CHARACTER SHEETS v4 png/DM SHEETS/DM PC trackers.png",
+    "Campaings/Guild Wars/5E/Character Sheets/MODULAR CHARACTER SHEETS v4 png/DM SHEETS/DM PC trackers 2.png",
+    "Campaings/Guild Wars/5E/Character Sheets/MODULAR CHARACTER SHEETS v4 png/DM SHEETS/DM PC TRACKER variant.png"
+  ]
+}
