@@ -1,0 +1,17 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "banner-wrapper",
+    "center images",
+    "obsidian-default-theme",
+    "S - Encoded Fonts",
+    "S - Encoded Icons",
+    "S - Folder Styles Rewritten",
+    "S - Images Adjustments",
+    "styles",
+    "TimelineEvent",
+    "TimelineRange"
+  ],
+  "cssTheme": "ITS Theme",
+  "theme": "moonstone"
+}
