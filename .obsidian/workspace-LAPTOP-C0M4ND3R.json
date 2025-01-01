@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "d4b77cba7a3a56d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3db378eb0cdcacf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8769f7e5c41fd330",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaings/Emergence of the Sliver Queen/Sessions/Melkespannet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51e950c2e79ced21",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Rules/Cypher System/Cypher-System-Rulebook-Revised-Hyperlinked-and-Bookmarked-2019-10-22.pdf"
+              }
+            }
+          },
+          {
+            "id": "8b2f4157e5f6f3b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaings/Emergence of the Sliver Queen/Sessions/Elturel Brenner (one-shot).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "833a10d8d2d30fe3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Rules/AD&D 2nd Edition/Player's Handbook Revised (Premium Edition).pdf"
+              }
+            }
+          },
+          {
+            "id": "1cc79906a8152c5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Settings/Forgotten Realms/Atlas/Elturel.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d2fce8b11ba84f1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Campaings/Emergence of the Sliver Queen/Characters/One-shot/Kaia Mercenary.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f20d3e95e261a71",
+    "type": "split",
+    "children": [
+      {
+        "id": "62fec712d72625b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8800cfecb97d8f23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa680165fd666a27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22e73b8478251438",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "5baa84dac070d239",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "332d18d0820630fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "89963b75425811ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38e60220728cffcc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campaings/Emergence of the Sliver Queen/Characters/One-shot/Kaia Mercenary.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e66153d41fa3facf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campaings/Emergence of the Sliver Queen/Characters/One-shot/Kaia Mercenary.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18b8c38f4fe34ca1",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb046787b7bb98f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b20ccc1b7ba447e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaings/Emergence of the Sliver Queen/Characters/One-shot/Kaia Mercenary.pdf"
+              }
+            }
+          },
+          {
+            "id": "8699a5e95cbbf1e3",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "e12eccf06131f31e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "afaf67f4dd186b50",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "initiative-tracker:Intiative Tracker Encounter Builder": false
+    }
+  },
+  "active": "2d2fce8b11ba84f1",
+  "lastOpenFiles": [
+    "Campaings/Lost-Aldria/Resources/Obsidian/Leaflet.md",
+    "Campaings/Lost-Aldria/Resources/Obsidian/Image Adjustment.md",
+    "Campaings/Lost-Aldria/GM Stuff/Lists/Plotlines.md",
+    "Campaings/Lost-Aldria/GM Stuff/Lists/Lists.md",
+    "Campaings/Lost-Aldria/GM Stuff/Lists/Chekhov's Guns.md",
+    "Campaings/Lost-Aldria/GM Stuff/Lists/Characters.md",
+    "Campaings/Lost-Aldria/GM Stuff/Lists/Adventure Themes.md",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/wizards_logo_119x80.png",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/New_Wizards_Icon.jpg",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/magic-logo.webp",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/magic-logo.png",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/m25r9r3whp_tm.jpg",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/m25r9r3whp_pw.jpg",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/m25r9r3whp_md.jpg",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/HERO_WHERE_TO_FIND_CMM_COMMODORE_GUFF.webp",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/HERO_WHERE_TO_FIND_CMM_COMMODORE_GUFF.jpg",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/hasbro.svg",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/f01ce45.modern.js",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/analytics.js",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/82.f1af1e9c019351031f67.js",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/8.eb9bc804ae3dbe689b56.js",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/79.1e1648612462451c147f.js",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/74.79314889ca486acd95bb.js",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/69.b101eeb047c161d241f3.js",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/57.eb835474b350b2a46f3d.js",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/56.308befe85dc4efb18eb6.js",
+    "Campaings/Lost-Aldria/Groups/Filer_for_Planeswalker's Guide to Khans of Tarkir, Part 2 MAGIC THE GATHERING/350.05a78cefa1b507353679.js",
+    "Campaings/Lost-Aldria/Groups/Ynglet.md",
+    "Campaings/Lost-Aldria/Groups/Veien.md",
+    "Campaings/Lost-Aldria/Groups/Huset.md",
+    "Campaings/Lost-Aldria/Groups/Horden.md",
+    "Campaings/Lost-Aldria/Groups/Grensen.md",
+    "Campaings/Lost-Aldria/Start Here.md",
+    "Campaings/NeoRom/Lost-Aldria/Resources/Obsidian/Leaflet.md",
+    "Campaings/NeoRom/Lost-Aldria/Resources/Obsidian/Image Adjustment.md",
+    "Campaings/NeoRom/Lost-Aldria/GM Stuff/Lists/Plotlines.md",
+    "Campaings/NeoRom/Lost-Aldria/GM Stuff/Lists/Characters.md",
+    "Campaings/NeoRom/Lost-Aldria/GM Stuff/Lists/Lists.md",
+    "Campaings/NeoRom/Lost-Aldria/GM Stuff/Lists/Adventure Themes.md",
+    "Campaings/NeoRom/Lost-Aldria/GM Stuff/Lists/Chekhov's Guns.md",
+    "Campaings/NeoRom/Lost-Aldria/Groups/Ynglet.md",
+    "Campaings/NeoRom/Lost-Aldria/Groups/Veien.md",
+    "Campaings/NeoRom/Lost-Aldria/Groups/Horden.md",
+    "Campaings/NeoRom/Lost-Aldria/Groups/Huset.md",
+    "Campaings/NeoRom/Lost-Aldria/Groups/Grensen.md",
+    "Campaings/NeoRom/Lost-Aldria/Start Here.md",
+    "Untitled.canvas"
+  ]
+}

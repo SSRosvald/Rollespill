@@ -1,0 +1,32 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "banner": "text",
+    "date": "date",
+    "Race": "multitext",
+    "Age": "number",
+    "Affiliation": "multitext",
+    "Gender": "multitext",
+    "Character-Role": "multitext",
+    "Alignment": "multitext",
+    "Class": "multitext",
+    "Location": "multitext",
+    "Heritage": "multitext",
+    "Culture": "multitext",
+    "Background": "multitext",
+    "Government": "text",
+    "guildsgroups": "multitext",
+    "PlayerKnownLanguages": "multitext",
+    "game-date": "date",
+    "leader": "multitext",
+    "Type": "multitext",
+    "Domains": "multitext",
+    "Prerequisite": "checkbox",
+    "Destiny": "multitext",
+    "aat-event-end-date": "date",
+    "fc-date": "date",
+    "School": "multitext"
+  }
+}
