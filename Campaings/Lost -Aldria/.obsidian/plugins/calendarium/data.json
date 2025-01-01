@@ -1,0 +1,345 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Lost-Aldria",
+      "description": null,
+      "id": "ID_899b2a29394a",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Suncrest",
+            "id": "ID_f9ba2bdbb9db",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Fireheart",
+            "id": "ID_5b4b497bd96b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Stormsong",
+            "id": "ID_ba3bebcadbe9",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Earthstride",
+            "id": "ID_a85b58ba8899",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Skywatch",
+            "id": "ID_c8592999c85a",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Moonwake",
+            "id": "ID_5a0b8a4b78db",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "1. Draconis",
+            "type": "month",
+            "length": 30,
+            "id": "ID_9a9bba68eb6a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "2. Emberfall",
+            "type": "month",
+            "length": 29,
+            "id": "ID_4ad8fa08bb49",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "3. Mistveil",
+            "type": "month",
+            "length": 31,
+            "id": "ID_38db68698b3b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "4. Thornbloom",
+            "type": "month",
+            "length": 28,
+            "id": "ID_f8180b095939",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "5. Sunstretch",
+            "type": "month",
+            "length": 31,
+            "id": "ID_b90a4b7af978",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "6. Moonshadow",
+            "type": "month",
+            "length": 30,
+            "id": "ID_ab1bd80b380a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "7. Stormreach",
+            "type": "month",
+            "length": 29,
+            "id": "ID_8a8b5819b8ab",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "8. Verdantwane",
+            "type": "month",
+            "length": 31,
+            "id": "ID_2bdb2a98c96b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "9. Bloodmooon",
+            "type": "month",
+            "length": 30,
+            "id": "ID_b908cb9b9bcb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "10. Frostfall",
+            "type": "month",
+            "length": 28,
+            "id": "ID_0b3b284a7aab",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "11. Swiftwind",
+            "type": "month",
+            "length": 31,
+            "id": "ID_ca99c879bbd8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "12. Shadowvale",
+            "type": "month",
+            "length": 29,
+            "id": "ID_884abb9ab9a9",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Liánxì",
+            "cycle": 24,
+            "offset": "3",
+            "faceColor": "#ffffff",
+            "shadowColor": "#292b4a",
+            "id": "ID_a81a49cb7838"
+          },
+          {
+            "name": "Fènnù",
+            "cycle": 32,
+            "offset": "9",
+            "faceColor": "#ffffff",
+            "shadowColor": "#3b2a2a",
+            "id": "ID_18c8892a8928"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "current": {
+        "day": 15,
+        "month": 8,
+        "year": 102
+      },
+      "events": [
+        {
+          "name": "Birth of a Nation",
+          "description": "<p>The Mahendrapir celebration of the first Naga to be granted Queenhood<br></p>",
+          "id": "2251102",
+          "note": null,
+          "date": {
+            "day": 11,
+            "year": [
+              null,
+              null
+            ],
+            "month": 8
+          },
+          "category": "ID_ab1b5b5ad91b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": "*-8-11"
+          },
+          "type": "Date"
+        },
+        {
+          "name": "De fire vinders fest",
+          "description": "Stammene i de Sørlige Sanddyner samles for en kulturell fest.",
+          "date": {
+            "day": 20,
+            "month": 0,
+            "year": 65
+          },
+          "id": "ID_7a8a5a7bdac8",
+          "note": "Plot/History/De fire vinders fest.md",
+          "category": "ID_ab1b5b5ad91b",
+          "sort": {
+            "timestamp": 65020,
+            "order": ""
+          },
+          "formulas": [
+            {
+              "type": "interval",
+              "number": 357,
+              "timespan": "days"
+            }
+          ],
+          "type": "Date"
+        },
+        {
+          "name": "Mesternes Turnering",
+          "description": "Årlig turnering i [[Mahendrapura]] for å vinne gudenes gave, og invitasjon inn i aristokratiet.",
+          "date": {
+            "day": 10,
+            "month": 4,
+            "year": 80
+          },
+          "id": "ID_796a28abcb3a",
+          "note": "Plot/History/Mesternes Turnering.md",
+          "category": "ID_ab1b5b5ad91b",
+          "sort": {
+            "timestamp": 80410,
+            "order": ""
+          },
+          "formulas": [
+            {
+              "type": "interval",
+              "number": 357,
+              "timespan": "days"
+            }
+          ],
+          "end": {
+            "year": 80,
+            "month": 4,
+            "day": 15
+          },
+          "type": "Range"
+        },
+        {
+          "name": "Vintersolverv",
+          "description": "Familiegruppene på Qal-Sisma slettene samles for å feire vintersolverv.",
+          "date": {
+            "day": 14,
+            "month": 11,
+            "year": 95
+          },
+          "id": "ID_6ac90a484ac8",
+          "note": "Plot/History/Vintersolverv.md",
+          "category": "ID_ab1b5b5ad91b",
+          "sort": {
+            "timestamp": 951114,
+            "order": ""
+          },
+          "end": {
+            "year": 95,
+            "month": 11,
+            "day": 15
+          },
+          "formulas": [
+            {
+              "type": "interval",
+              "number": 357,
+              "timespan": "days"
+            }
+          ],
+          "type": "Range"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_ab1b5b5ad91b",
+          "color": "#db4aaf",
+          "name": "Årlige hendelser"
+        }
+      ],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": -227427433,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      }
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_899b2a29394a",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": true,
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": true,
+  "syncBehavior": "Never",
+  "inlineEventsTag": "#inline-events",
+  "paths": [
+    [
+      "/",
+      "ID_899b2a29394a"
+    ]
+  ],
+  "autoParse": true
+}
