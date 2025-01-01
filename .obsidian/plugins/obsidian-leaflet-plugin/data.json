@@ -1,0 +1,4971 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Paham Map",
+      "lastAccessed": 1692186777066,
+      "markers": [
+        {
+          "type": "default",
+          "loc": [
+            -2.28076171875,
+            2.859375
+          ],
+          "layer": "%5B%5BNyaldria_2.jpg%5D%5D",
+          "id": "ID_2b0ab8c81a5b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Campaings/Guild Wars/Locations/Nyaldria.md",
+        "Campaings/Guild Wars/Locations/World Map.md",
+        "Campaings/Guild Wars/Locations/Greveskapet Randhilborg.md"
+      ]
+    },
+    {
+      "id": "Forgotten Reamls",
+      "lastAccessed": 1696701619335,
+      "markers": [
+        {
+          "type": "default",
+          "loc": [
+            -3.49114990234375,
+            5.7021484375
+          ],
+          "layer": "%5B%5BMap-Forgotten-Realms-Medtravel.png%5D%5D",
+          "id": "ID_c908d8db5abb",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "default",
+          "loc": [
+            -3.80657958984375,
+            5.9208984375
+          ],
+          "layer": "%5B%5BMap-Forgotten-Realms-Medtravel.png%5D%5D",
+          "id": "ID_e9ab0959888b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "default",
+          "loc": [
+            -3.86029052734375,
+            5.6904296875
+          ],
+          "layer": "%5B%5BMap-Forgotten-Realms-Medtravel.png%5D%5D",
+          "id": "ID_4b394bebf95b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "default",
+          "loc": [
+            -3.60150146484375,
+            5.83203125
+          ],
+          "layer": "%5B%5BMap-Forgotten-Realms-Medtravel.png%5D%5D",
+          "id": "ID_2acad8382b89",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Settings/Forgotten Realms/Atlas/Forgotten Realms Map.md"
+      ]
+    },
+    {
+      "id": "Elturel Labeled",
+      "lastAccessed": 1696701642733,
+      "markers": [
+        {
+          "type": "default",
+          "loc": [
+            -1.896484375,
+            1.4453125
+          ],
+          "layer": "%5B%5BCity_-_Elturel__labeled_.png%5D%5D",
+          "id": "ID_5b69087a5ae8",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "default",
+          "loc": [
+            -0.7401123046875,
+            0.703125
+          ],
+          "layer": "%5B%5BCity_-_Elturel__labeled_.png%5D%5D",
+          "id": "ID_598b0948fb98",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "default",
+          "loc": [
+            -0.3514404296875,
+            1.029296875
+          ],
+          "layer": "%5B%5BCity_-_Elturel__labeled_.png%5D%5D",
+          "id": "ID_facb1bfa789a",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "default",
+          "loc": [
+            -1.3338623046875,
+            1.171875
+          ],
+          "layer": "%5B%5BCity_-_Elturel__labeled_.png%5D%5D",
+          "id": "ID_9a2a7b0ba848",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "default",
+          "loc": [
+            -0.5487060546875,
+            1.556640625
+          ],
+          "layer": "%5B%5BCity_-_Elturel__labeled_.png%5D%5D",
+          "id": "ID_9a7b0beabbf9",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "default",
+          "loc": [
+            -0.8807373046875,
+            2.42578125
+          ],
+          "layer": "%5B%5BCity_-_Elturel__labeled_.png%5D%5D",
+          "id": "ID_19096a899a69",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "default",
+          "loc": [
+            -1.5780029296875,
+            0.775390625
+          ],
+          "layer": "%5B%5BCity_-_Elturel__labeled_.png%5D%5D",
+          "id": "ID_4bfaba98c9ba",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "default",
+          "loc": [
+            -1.1346435546875,
+            0.783203125
+          ],
+          "layer": "%5B%5BCity_-_Elturel__labeled_.png%5D%5D",
+          "id": "ID_b9a8cbfbfbfa",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "default",
+          "loc": [
+            -0.5955810546875,
+            2.251953125
+          ],
+          "layer": "%5B%5BCity_-_Elturel__labeled_.png%5D%5D",
+          "id": "ID_19f8192b8a39",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "default",
+          "loc": [
+            -0.4530029296875,
+            2.5703125
+          ],
+          "layer": "%5B%5BCity_-_Elturel__labeled_.png%5D%5D",
+          "id": "ID_d83b593b0aaa",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "default",
+          "loc": [
+            -1.148193359375,
+            2.15625
+          ],
+          "layer": "%5B%5BCity_-_Elturel__labeled_.png%5D%5D",
+          "id": "ID_f8a95b3a79eb",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Settings/Forgotten Realms/Atlas/Elturel.md"
+      ]
+    },
+    {
+      "id": "Greveskapet Randhilborg",
+      "lastAccessed": 1708291409474,
+      "markers": [
+        {
+          "type": "default",
+          "loc": [
+            -2.366455078125,
+            1.7021484375
+          ],
+          "link": "Kirlia",
+          "layer": "%5B%5BGrevskapet_Ra.jpg%5D%5D",
+          "id": "ID_a99b997af9ba",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Campaings/Guild Wars/Locations/Greveskapet Randhilborg.md"
+      ]
+    },
+    {
+      "id": "[[Lost-Aldria]]",
+      "locked": true,
+      "lastAccessed": 1708987360147,
+      "markers": [
+        {
+          "type": "Nation",
+          "loc": [
+            1932.102988331505,
+            635.8719129709012
+          ],
+          "link": "Mahendrapur",
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_6b1aca0a58f8",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Nation",
+          "loc": [
+            1538.6015625,
+            516.8146708138933
+          ],
+          "link": "Utmarken",
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_cb686908c8da",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Nation",
+          "loc": [
+            1126.1015625,
+            617.874287195438
+          ],
+          "link": "Sørlige Sanddyner",
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_3a0a2a289a0a",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Nation",
+          "loc": [
+            2262.6015625,
+            675.8504406428201
+          ],
+          "link": "Cori-Land",
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_5a0a192bdb3a",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Nation",
+          "loc": [
+            2223.287351115434,
+            1144.7545594308256
+          ],
+          "link": "Qal-sisma slettene",
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_39c9b88938db",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Capitol",
+          "loc": [
+            1860.80078125,
+            584.399300155521
+          ],
+          "link": "Mahendrapura",
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_8b1b1b4ad938",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            1799.400390625,
+            461.40625
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_3a59bb0b79e9",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            1702.400390625,
+            723.78125
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_0939da59f9da",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Town",
+          "loc": [
+            1840.5989514285834,
+            566.5100090041935
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_9b3a09db3b8b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Capitol",
+          "loc": [
+            2256.025390625,
+            740.40625
+          ],
+          "link": "Bathisk",
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_f8b83a1b3a18",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Dungeon",
+          "loc": [
+            811.900390625,
+            668.28125
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_6b4be939ca88",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Inn",
+          "loc": [
+            1825.4320633993048,
+            632.551209945191
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_5ac97bdbbba9",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Inn",
+          "loc": [
+            2114.2851835140095,
+            660.6587044973562
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_1b58babbfada",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Dungeon",
+          "loc": [
+            2219.290540520212,
+            613.1057734625609
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_4bc82b99184a",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Landmark",
+          "loc": [
+            2235.907549878096,
+            614.8735404155273
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_2889d9891919",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Fort",
+          "loc": [
+            1912.40619748525,
+            428.0205734869821
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_097a793a8999",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Landmark",
+          "loc": [
+            1730.856531415604,
+            575.2755606690806
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_ab4bb9b8fa38",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            1749.2413077264541,
+            660.4819278020597
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_081b796a2a0a",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Village",
+          "loc": [
+            1833.3870146876534,
+            482.4677956383463
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_ea9a29c8b8bb",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Fort",
+          "loc": [
+            1933.796177616143,
+            492.89762066084785
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_1ab8890b1a48",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Town",
+          "loc": [
+            1792.3748213788335,
+            784.7559445955953
+          ],
+          "link": "Vurata",
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_d938c9e8a848",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Town",
+          "loc": [
+            2062.6663884873915,
+            572.0935801537412
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_687968793888",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Landmark",
+          "loc": [
+            2204.6180748105908,
+            1059.8204824771624
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_89c9fb793938",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Camp",
+          "loc": [
+            2221.058307473178,
+            1096.590035098863
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_6aaa198828f8",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            2161.661337853508,
+            1120.1013355733155
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_ca79fb587bea",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            2107.037339006847,
+            996.3576488656697
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_eb29c8489bf9",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            1671.8131151865273,
+            723.7679847182557
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_3879f90959db",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Shrine",
+          "loc": [
+            2072.9194368145963,
+            565.376065732469
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_ba3ab92b98eb",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Mine",
+          "loc": [
+            1991.6021569781435,
+            828.243011638568
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_4aea2b695be9",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Mine",
+          "loc": [
+            2085.8241355712507,
+            711.2168393521944
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_397b68fa89da",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Mine",
+          "loc": [
+            1956.246817918816,
+            448.34989344609534
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_cada3b29b9ab",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Shrine",
+          "loc": [
+            2017.588331186749,
+            503.15066898805276
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_399b39facba9",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Dungeon",
+          "loc": [
+            1875.8134215588461,
+            750.9915957939377
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_1aca78e84b1a",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Dungeon",
+          "loc": [
+            1647.9482613214814,
+            559.3656580923833
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_0ae898fa0ae8",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Mine",
+          "loc": [
+            1651.483795227414,
+            453.4764176096978
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_19ba8a6b5828",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Mine",
+          "loc": [
+            1207.067183251669,
+            612.575443376671
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_d9792b7a6838",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Town",
+          "loc": [
+            1873.05078125,
+            737.3125
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_9b19da6908cb",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Fort",
+          "loc": [
+            1978.5565892924244,
+            730.529693313352
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_4908dbb8d839",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Fort",
+          "loc": [
+            2337.7668341351905,
+            688.1032864421592
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_08c848fbc85b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Fort",
+          "loc": [
+            2193.517050773135,
+            795.9370705731076
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_6a9a8b4aa85b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Fort",
+          "loc": [
+            2200.9416719755936,
+            629.0598702130824
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_4ab92a481a1b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Fort",
+          "loc": [
+            2305.2399222006093,
+            795.9370705731076
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_68d93a1b4b3a",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Fort",
+          "loc": [
+            1742.0293709855243,
+            639.3129185402873
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_3929cb694b18",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Town",
+          "loc": [
+            1819.1040101348578,
+            559.7634056568007
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_69aaca793a09",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Village",
+          "loc": [
+            1981.55078125,
+            531.5625
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_9bfb6aabdb38",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            1988.55078125,
+            476.0625
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_18e8a989483b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Shrine",
+          "loc": [
+            1952.05078125,
+            672.3125
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_aa9aa959f80b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Inn",
+          "loc": [
+            1970.55078125,
+            580.8125
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_d8baa9b9f978",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            1773.05078125,
+            505.5625
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_094a093a48ca",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            1711.80078125,
+            670.8125
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_186a0b98b82a",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Shrine",
+          "loc": [
+            2226.80078125,
+            684.5625
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_c8ebb8b8889b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Landmark",
+          "loc": [
+            2306.80078125,
+            611.0625
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_1a58b8f86b68",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Capitol",
+          "loc": [
+            1556.4138409240554,
+            1430.565406688034
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_5a09bbb899ea",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Fort",
+          "loc": [
+            1919.866726453941,
+            872.6581563318481
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_999bbbd8ea3b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Town",
+          "loc": [
+            2071.187577627862,
+            895.9926801110041
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_9be939bb6bfb",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Village",
+          "loc": [
+            2087.55078125,
+            1122.8125
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_b8f878e87bd8",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Camp",
+          "loc": [
+            2135.30078125,
+            1072.3125
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_89491b28d919",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            2269.55078125,
+            901.3125
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_591b9bd9dbb8",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            2248.30078125,
+            489.8125
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_289a5b0be8c9",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Shrine",
+          "loc": [
+            2081.55078125,
+            674.0625
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_1a2a7b788a8b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Landmark",
+          "loc": [
+            2022.80078125,
+            711.8125
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_79c8899b79c9",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Inn",
+          "loc": [
+            1834.80078125,
+            715.0625
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_99e88be92aea",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Village",
+          "loc": [
+            1893.55078125,
+            651.5625
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_19fb9839fbe8",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            1789.05078125,
+            702.3125
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_28db0afa2899",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Landmark",
+          "loc": [
+            1787.80078125,
+            663.3125
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_eb08fa4b5948",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Landmark",
+          "loc": [
+            1888.55078125,
+            702.3125
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_8ad8a82868d8",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Landmark",
+          "loc": [
+            1907.05078125,
+            606.8125
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_dbdbc9ebaaaa",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Mine",
+          "loc": [
+            1926.80078125,
+            549.5625
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_da5ababb6a98",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            2028.30078125,
+            636.3125
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_f9dbc9da59cb",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Mine",
+          "loc": [
+            2067.30078125,
+            528.0625
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_398bc82a791b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Shrine",
+          "loc": [
+            2157.80078125,
+            725.3125
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_4acb7a3bb878",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Landmark",
+          "loc": [
+            2164.05078125,
+            702.5625
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_7b6b6a89bb29",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            2129.80078125,
+            774.0625
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_685a086b28eb",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            2191.30078125,
+            762.8125
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_caa8696baa9b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Landmark",
+          "loc": [
+            2177.55078125,
+            823.0625
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_b93b1a58993b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Landmark",
+          "loc": [
+            2164.05078125,
+            931.0625
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_1bd8a8c8eaba",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Landmark",
+          "loc": [
+            2215.30078125,
+            1268.0625
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_cb78197bd8b9",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Dungeon",
+          "loc": [
+            1265.775390625,
+            469.65625
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_fb6a8bfa091b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            1633.5602956058533,
+            542.5276778653786
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_6b39a928aa18",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            1574.8704327673697,
+            650.7150153869203
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_9a68f8da19e9",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            1613.0541989514434,
+            722.1328002867616
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_89c9db8b9878",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            1696.492799131456,
+            445.65404884282157
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_1b3b3b2a598b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            1772.860331499603,
+            406.7631758775614
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_e9baea099a7b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            1671.7440617899267,
+            794.2576919677895
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_0a89e919a94b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            1521.8374241783788,
+            782.2368766876182
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_b82b7aab5b59",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Dungeon",
+          "loc": [
+            3293.30078125,
+            2236.8125
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_b90b0bd9e819",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Camp",
+          "loc": [
+            2248.6713797056855,
+            1343.5912726020888
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_c8a91abb5928",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Village",
+          "loc": [
+            2379.8396876157904,
+            1219.847585894443
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_7a4a7b6b680b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            2357.9193773990073,
+            1197.5737222870666
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_18d9abeb4a4b",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Fort",
+          "loc": [
+            1977.80078125,
+            641.0625
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_0acb7aeb9b49",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Ruins",
+          "loc": [
+            1989.55078125,
+            693.5625
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_588b5b28ebb8",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "Camp",
+          "loc": [
+            1931.5817676088695,
+            735.4164711653267
+          ],
+          "layer": "%5B%5Bcont2.png%5D%5D",
+          "id": "ID_696a0a4bc8ba",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#030303",
+          "vertices": [
+            {
+              "lat": 1860.80078125,
+              "lng": 601.9272939346811,
+              "id": "ID_59fb6ada2959",
+              "targets": {
+                "vertexIds": [
+                  "ID_c8ab288acbf8",
+                  "ID_db9908192b59",
+                  "ID_28bb8b5b3998"
+                ]
+              }
+            },
+            {
+              "lat": 1825.4320633993048,
+              "lng": 632.551209945191,
+              "id": "ID_9abae9993ab8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1788.30078125,
+              "lng": 618.6859771902539,
+              "id": "ID_9a0a4bd9bb5a",
+              "targets": {
+                "vertexIds": [
+                  "ID_ca8978d98aea"
+                ]
+              }
+            },
+            {
+              "lat": 1735.80078125,
+              "lng": 653.7041213063762,
+              "id": "ID_4a7b5a498848",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1680.30078125,
+              "lng": 648.2012700881285,
+              "id": "ID_5a1aba593b28",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1588.75,
+              "lng": 620.235743908761,
+              "id": "ID_bb9a7a08084b",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#030303",
+          "vertices": [
+            {
+              "lat": 1860.80078125,
+              "lng": 601.9272939346811,
+              "id": "ID_c8ab288acbf8",
+              "targets": {
+                "vertexIds": [
+                  "ID_59fb6ada2959",
+                  "ID_db9908192b59",
+                  "ID_28bb8b5b3998"
+                ]
+              }
+            },
+            {
+              "lat": 1857.30078125,
+              "lng": 583.4259979263868,
+              "id": "ID_d94b8bdb4a19",
+              "targets": {
+                "vertexIds": [
+                  "ID_2a19db0be8eb"
+                ]
+              }
+            },
+            {
+              "lat": 1834.55078125,
+              "lng": 572.6704250907205,
+              "id": "ID_c858d81a8ba9",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#030303",
+          "vertices": [
+            {
+              "lat": 1857.30078125,
+              "lng": 583.4259979263868,
+              "id": "ID_2a19db0be8eb",
+              "targets": {
+                "vertexIds": [
+                  "ID_d94b8bdb4a19"
+                ]
+              }
+            },
+            {
+              "lat": 1860.80078125,
+              "lng": 601.9272939346811,
+              "id": "ID_db9908192b59",
+              "targets": {
+                "vertexIds": [
+                  "ID_c8ab288acbf8",
+                  "ID_59fb6ada2959",
+                  "ID_28bb8b5b3998"
+                ]
+              }
+            },
+            {
+              "lat": 1862.05078125,
+              "lng": 635.1769051321928,
+              "id": "ID_8b3b1b691818",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1886.80078125,
+              "lng": 662.4410316226024,
+              "id": "ID_fa7a599a0b68",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1873.55078125,
+              "lng": 703.4622861586314,
+              "id": "ID_0a891b5a39ca",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1873.05078125,
+              "lng": 737.3125,
+              "id": "ID_697afaf8294b",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#030303",
+          "vertices": [
+            {
+              "lat": 1792.3748213788335,
+              "lng": 784.7559445955953,
+              "id": "ID_48b878ba798b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1873.05078125,
+              "lng": 737.3125,
+              "id": "ID_79789a192ab9",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#030303",
+          "vertices": [
+            {
+              "lat": 1860.80078125,
+              "lng": 601.9272939346811,
+              "id": "ID_28bb8b5b3998",
+              "targets": {
+                "vertexIds": [
+                  "ID_db9908192b59",
+                  "ID_c8ab288acbf8",
+                  "ID_59fb6ada2959"
+                ]
+              }
+            },
+            {
+              "lat": 1910.55078125,
+              "lng": 588.6130119232763,
+              "id": "ID_69f908a98938",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1942.55078125,
+              "lng": 602.8703991705547,
+              "id": "ID_ab7be8881919",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1965.80078125,
+              "lng": 600.3691031622602,
+              "id": "ID_486bab8a89eb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1970.55078125,
+              "lng": 580.8125,
+              "id": "ID_5948f8ba4a68",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1981.55078125,
+              "lng": 531.5625,
+              "id": "ID_cb7848dbdb78",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2007.05078125,
+              "lng": 538.5870917573873,
+              "id": "ID_e8485a793ac8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2035.55078125,
+              "lng": 549.8429237947123,
+              "id": "ID_69881b9b6829",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2062.6663884873915,
+              "lng": 572.0935801537412,
+              "id": "ID_78eb19caea08",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#030303",
+          "vertices": [
+            {
+              "lat": 1981.55078125,
+              "lng": 531.5625,
+              "id": "ID_7bda4ada199b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1933.796177616143,
+              "lng": 492.89762066084785,
+              "id": "ID_19782a8b7b6b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1912.40619748525,
+              "lng": 428.0205734869821,
+              "id": "ID_8bb99a988848",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#030303",
+          "vertices": [
+            {
+              "lat": 1873.05078125,
+              "lng": 737.3125,
+              "id": "ID_69e9585948a9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1887.30078125,
+              "lng": 743.1139191290824,
+              "id": "ID_893908e9c9c9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1897.05078125,
+              "lng": 742.3635303265941,
+              "id": "ID_7b394be909ea",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1909.80078125,
+              "lng": 748.8668999481597,
+              "id": "ID_6ae979eaba2b",
+              "targets": {
+                "vertexIds": [
+                  "ID_99e97b6bfa28"
+                ]
+              }
+            },
+            {
+              "lat": 1905.80078125,
+              "lng": 766.6261016070503,
+              "id": "ID_2aba2b7bcaca",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1914.80078125,
+              "lng": 837.6629082426127,
+              "id": "ID_086adbc9c919",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1919.866726453941,
+              "lng": 872.6581563318481,
+              "id": "ID_5a8a7a7a4979",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#030303",
+          "vertices": [
+            {
+              "lat": 1909.80078125,
+              "lng": 748.8668999481597,
+              "id": "ID_99e97b6bfa28",
+              "targets": {
+                "vertexIds": [
+                  "ID_6ae979eaba2b"
+                ]
+              }
+            },
+            {
+              "lat": 1978.5565892924244,
+              "lng": 730.529693313352,
+              "id": "ID_8b88297ab878",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#030303",
+          "vertices": [
+            {
+              "lat": 2256.025390625,
+              "lng": 740.40625,
+              "id": "ID_aa0a3aa81bba",
+              "targets": {
+                "vertexIds": [
+                  "ID_591a29187a59",
+                  "ID_aa49dadb5b49"
+                ]
+              }
+            },
+            {
+              "lat": 2213.55078125,
+              "lng": 763.9817262830483,
+              "id": "ID_688b4ac85aeb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2193.517050773135,
+              "lng": 795.9370705731076,
+              "id": "ID_787ac85aa94b",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#030303",
+          "vertices": [
+            {
+              "lat": 2256.025390625,
+              "lng": 740.40625,
+              "id": "ID_591a29187a59",
+              "targets": {
+                "vertexIds": [
+                  "ID_aa0a3aa81bba",
+                  "ID_aa49dadb5b49"
+                ]
+              }
+            },
+            {
+              "lat": 2298.55078125,
+              "lng": 784.4923535510628,
+              "id": "ID_2ab90aaa3a09",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2305.2399222006093,
+              "lng": 795.9370705731076,
+              "id": "ID_0bab9b2b4b9a",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#030303",
+          "vertices": [
+            {
+              "lat": 2256.025390625,
+              "lng": 740.40625,
+              "id": "ID_aa49dadb5b49",
+              "targets": {
+                "vertexIds": [
+                  "ID_591a29187a59",
+                  "ID_aa0a3aa81bba"
+                ]
+              }
+            },
+            {
+              "lat": 2289.05078125,
+              "lng": 728.463322965267,
+              "id": "ID_8b09388adbf9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2306.80078125,
+              "lng": 728.463322965267,
+              "id": "ID_4a7ada69c85a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2324.30078125,
+              "lng": 712.2048989113531,
+              "id": "ID_b95a78580ae9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2337.7668341351905,
+              "lng": 688.1032864421592,
+              "id": "ID_780b8bc8299a",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#030303",
+          "vertices": [
+            {
+              "lat": 2256.025390625,
+              "lng": 740.40625,
+              "id": "ID_a95ad848ab9a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2256.05078125,
+              "lng": 718.958398133748,
+              "id": "ID_d8a8dbda98e9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2242.80078125,
+              "lng": 698.9480300673924,
+              "id": "ID_b95b183af9ca",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2226.80078125,
+              "lng": 684.5625,
+              "id": "ID_1898ea99d9aa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2200.9416719755936,
+              "lng": 629.0598702130824,
+              "id": "ID_685a08ba39e9",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#030303",
+          "vertices": [
+            {
+              "lat": 2269.55078125,
+              "lng": 901.3125,
+              "id": "ID_799a38f9dbe8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2246.80078125,
+              "lng": 874.4222395023328,
+              "id": "ID_0a684a2999ab",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2227.05078125,
+              "lng": 887.1788491446346,
+              "id": "ID_58687b9bf87b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2209.30078125,
+              "lng": 900.1855883877656,
+              "id": "ID_793b5a5ba858",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#030303",
+          "vertices": [
+            {
+              "lat": 1819.1040101348578,
+              "lng": 559.7634056568007,
+              "id": "ID_faa8f98b5a09",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1781.30078125,
+              "lng": 556.4878175220322,
+              "id": "ID_a8dab89be939",
+              "targets": {
+                "vertexIds": [
+                  "ID_5978b8292a3a"
+                ]
+              }
+            },
+            {
+              "lat": 1794.80078125,
+              "lng": 526.2221358216693,
+              "id": "ID_3bfac9aa6828",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1822.55078125,
+              "lng": 507.21228615863146,
+              "id": "ID_08889828592b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1833.3870146876534,
+              "lng": 482.4677956383463,
+              "id": "ID_0af95afac85b",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#030303",
+          "vertices": [
+            {
+              "lat": 1781.30078125,
+              "lng": 556.4878175220322,
+              "id": "ID_5978b8292a3a",
+              "targets": {
+                "vertexIds": [
+                  "ID_a8dab89be939"
+                ]
+              }
+            },
+            {
+              "lat": 1788.30078125,
+              "lng": 618.6859771902539,
+              "id": "ID_ca8978d98aea",
+              "targets": {
+                "vertexIds": [
+                  "ID_9a0a4bd9bb5a"
+                ]
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#030303",
+          "vertices": [
+            {
+              "lat": 1696.492799131456,
+              "lng": 445.65404884282157,
+              "id": "ID_3bda9a585beb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1711.80078125,
+              "lng": 453.42910834629345,
+              "id": "ID_4a2a5a18d96b",
+              "targets": {
+                "vertexIds": [
+                  "ID_bb29db9b99d8"
+                ]
+              }
+            },
+            {
+              "lat": 1739.05078125,
+              "lng": 490.1981596682219,
+              "id": "ID_bae8d869bb5b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1773.05078125,
+              "lng": 505.5625,
+              "id": "ID_9b7a99697bca",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#030303",
+          "vertices": [
+            {
+              "lat": 1711.80078125,
+              "lng": 453.42910834629345,
+              "id": "ID_bb29db9b99d8",
+              "targets": {
+                "vertexIds": [
+                  "ID_4a2a5a18d96b"
+                ]
+              }
+            },
+            {
+              "lat": 1729.80078125,
+              "lng": 428.6662778641783,
+              "id": "ID_d9696a388868",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1739.30078125,
+              "lng": 430.6673146708139,
+              "id": "ID_cbcb8a68ba6a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1772.860331499603,
+              "lng": 406.7631758775614,
+              "id": "ID_5a79082a189b",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#030303",
+          "vertices": [
+            {
+              "lat": 1613.0541989514434,
+              "lng": 722.1328002867616,
+              "id": "ID_c8d9b9a9684b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1671.8131151865273,
+              "lng": 723.7679847182557,
+              "id": "ID_3b08eb08b8aa",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#030303",
+          "vertices": [
+            {
+              "lat": 1613.0541989514434,
+              "lng": 722.1328002867616,
+              "id": "ID_38eaab78f92b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1585.30078125,
+              "lng": 690.9440124416797,
+              "id": "ID_a97a6aca897a",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polygon",
+          "color": "#201818",
+          "vertices": [
+            {
+              "lat": 2008.7456135078623,
+              "lng": 388.72971401848395,
+              "id": "ID_59e808eba81b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1840.79580784595,
+              "lng": 330.92168280457736,
+              "id": "ID_7899faab9bc9",
+              "targets": {
+                "vertexIds": [
+                  "ID_29b8d9993abb"
+                ]
+              }
+            },
+            {
+              "lat": 1701.3471760078637,
+              "lng": 554.6739856618226,
+              "id": "ID_49291a98cb3a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1721.3471760078637,
+              "lng": 712.755893386032,
+              "id": "ID_ab5ba92a797a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1880.3471760078637,
+              "lng": 804.3033272896085,
+              "id": "ID_cadb4bb9eb09",
+              "targets": {
+                "vertexIds": [
+                  "ID_3b8b3aea6b49"
+                ]
+              }
+            },
+            {
+              "lat": 2010.8471760078623,
+              "lng": 794.7984024580895,
+              "id": "ID_b9290aeb4ad8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2100.8471760078664,
+              "lng": 760.7807767452852,
+              "id": "ID_b919e9f96b18",
+              "targets": {
+                "vertexIds": [
+                  "ID_58da984b9918"
+                ]
+              }
+            },
+            {
+              "lat": 2139.3471760078664,
+              "lng": 631.2136435156328,
+              "id": "ID_4849e9c9991b",
+              "targets": {
+                "vertexIds": [
+                  "ID_2bd9498be878"
+                ]
+              }
+            },
+            {
+              "lat": 2136.8471760078664,
+              "lng": 533.663099192149,
+              "id": "ID_bb3b69a9e968",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2078.3471760078664,
+              "lng": 457.1234413383388,
+              "id": "ID_9bf9687a4998",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "polygon",
+          "color": "#660000",
+          "vertices": [
+            {
+              "lat": 1573.5740138094282,
+              "lng": 244.7387452581761,
+              "id": "ID_ca88aa7b184a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1821.0613872247197,
+              "lng": 331.75796702379284,
+              "id": "ID_29b8d9993abb",
+              "targets": {
+                "vertexIds": [
+                  "ID_7899faab9bc9"
+                ]
+              }
+            },
+            {
+              "lat": 1619.5359545865538,
+              "lng": 875.0974980481317,
+              "id": "ID_8878d9fa58a9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1288.9805376992126,
+              "lng": 876.1058199742549,
+              "id": "ID_d98b49190999",
+              "targets": {
+                "vertexIds": [
+                  "ID_e8db4ac82878"
+                ]
+              }
+            },
+            {
+              "lat": 1243.1622279870155,
+              "lng": 249.9636816498196,
+              "id": "ID_fb8889181b8b",
+              "targets": {
+                "vertexIds": [
+                  "ID_387bfb591959"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "polygon",
+          "color": "#a09303",
+          "vertices": [
+            {
+              "lat": 1230.1449574501503,
+              "lng": 255.13271709509195,
+              "id": "ID_387bfb591959",
+              "targets": {
+                "vertexIds": [
+                  "ID_fb8889181b8b"
+                ]
+              }
+            },
+            {
+              "lat": 1275.9632671623474,
+              "lng": 881.2748554195255,
+              "id": "ID_e8db4ac82878",
+              "targets": {
+                "vertexIds": [
+                  "ID_d98b49190999"
+                ]
+              }
+            },
+            {
+              "lat": 1095.7946690247063,
+              "lng": 1040.4281330287065,
+              "id": "ID_294b8a099b49",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 790.3245395521178,
+              "lng": 634.3384314558278,
+              "id": "ID_7aeb8a5ac80b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 826.3869853926318,
+              "lng": 280.6017576118578,
+              "id": "ID_eb8919996998",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "polygon",
+          "color": "#0371a0",
+          "vertices": [
+            {
+              "lat": 2358.4630527751906,
+              "lng": 529.8236209916113,
+              "id": "ID_cb08d82ad969",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2366.241227368242,
+              "lng": 646.5567233601212,
+              "id": "ID_1a8aebfafa88",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2408.667634239435,
+              "lng": 753.3851988610005,
+              "id": "ID_d998b968391b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2284.780316466861,
+              "lng": 887.1401832881826,
+              "id": "ID_fbf81a08980b",
+              "targets": {
+                "vertexIds": [
+                  "ID_ea193ad9e928"
+                ]
+              }
+            },
+            {
+              "lat": 2107.4401454539657,
+              "lng": 797.9560197653403,
+              "id": "ID_2ad9cb68596b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2138.3620045768566,
+              "lng": 667.8940337802806,
+              "id": "ID_2bd9498be878",
+              "targets": {
+                "vertexIds": [
+                  "ID_4849e9c9991b"
+                ]
+              }
+            },
+            {
+              "lat": 2136.2878924176857,
+              "lng": 533.4654591829478,
+              "id": "ID_aacbb8884bea",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2211.9483180046464,
+              "lng": 574.6063173337564,
+              "id": "ID_f8a90a4aa8b9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2237.404162127362,
+              "lng": 537.8451957415878,
+              "id": "ID_f859da996a29",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2202.048823068035,
+              "lng": 501.0576813613193,
+              "id": "ID_7a6a28d8bbdb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2258.0538898467003,
+              "lng": 461.1987062658809,
+              "id": "ID_b83b4b6ab92a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2299.6295588717785,
+              "lng": 501.03128857321894,
+              "id": "ID_7aba0988f899",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "polygon",
+          "color": "#2da003",
+          "vertices": [
+            {
+              "lat": 2284.780316466861,
+              "lng": 887.1401832881826,
+              "id": "ID_ea193ad9e928",
+              "targets": {
+                "vertexIds": [
+                  "ID_fbf81a08980b"
+                ]
+              }
+            },
+            {
+              "lat": 2099.8620045768566,
+              "lng": 797.4611670099329,
+              "id": "ID_58da984b9918",
+              "targets": {
+                "vertexIds": [
+                  "ID_b919e9f96b18"
+                ]
+              }
+            },
+            {
+              "lat": 1879.3620045768544,
+              "lng": 840.9837175542567,
+              "id": "ID_3b8b3aea6b49",
+              "targets": {
+                "vertexIds": [
+                  "ID_cadb4bb9eb09"
+                ]
+              }
+            },
+            {
+              "lat": 2298.922452090592,
+              "lng": 1493.1695508141993,
+              "id": "ID_68ebb97b7bcb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2367.5118098656867,
+              "lng": 1534.8236020669574,
+              "id": "ID_8a5a0b19c86a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2551.359572974189,
+              "lng": 1309.160498445086,
+              "id": "ID_594b2a08e9d8",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        }
+      ],
+      "files": []
+    },
+    {
+      "id": "Lost-Aldria",
+      "locked": true,
+      "lastAccessed": 1709472349071,
+      "markers": [
+        {
+          "id": "ID_9b5a9b9b292a",
+          "type": "Capitol",
+          "loc": [
+            1857.75,
+            575.75
+          ],
+          "link": "Mahendrapura",
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_79eb9b2aeaea",
+          "type": "Town",
+          "loc": [
+            1794.46484375,
+            787.1723830004373
+          ],
+          "link": "Vurata",
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5869482b5ad9",
+          "type": "Capitol",
+          "loc": [
+            2228.21484375,
+            718.7306640909753
+          ],
+          "link": "Bathisk",
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_ca1928fa4968",
+          "type": "City",
+          "loc": [
+            2192.5,
+            608.6250546726928
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2478367320259362,
+            -1.0300681230913789
+          ],
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a79db08aa8a",
+          "type": "Town",
+          "loc": [
+            1609.71484375,
+            678.9271941974049
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8b82a19ba5a",
+          "type": "Ruins",
+          "loc": [
+            1706.46484375,
+            520.4463296398892
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_190858eaa95b",
+          "type": "Fort",
+          "loc": [
+            1715.71484375,
+            497.2064987607523
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5998fa480a0a",
+          "type": "Ruins",
+          "loc": [
+            1697.96484375,
+            472.21743329931473
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbcb584a8948",
+          "type": "Ruins",
+          "loc": [
+            1711.46484375,
+            454.72508747630854
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e96aea486a2b",
+          "type": "Ruins",
+          "loc": [
+            1738.96484375,
+            430.2358033240997
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db59389978ca",
+          "type": "Ruins",
+          "loc": [
+            1651.71484375,
+            412.7434575010934
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_abe81a488a5b",
+          "type": "Ruins",
+          "loc": [
+            1535.46484375,
+            666.9369259367254
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b1b4a4b3b3a",
+          "type": "Ruins",
+          "loc": [
+            1564.71484375,
+            556.9850379064003
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8cac8da6b5b",
+          "type": "Ruins",
+          "loc": [
+            1526.46484375,
+            586.7220258055111
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a694998d95a",
+          "type": "Village",
+          "loc": [
+            1730.21484375,
+            694.6932679690917
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a939ba8a5b29",
+          "type": "Town",
+          "loc": [
+            1835.96484375,
+            628.9495006560724
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb89eadb2b49",
+          "type": "Fort",
+          "loc": [
+            1877.46484375,
+            814.1184757253244
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b9819bb4bb9",
+          "type": "Ruins",
+          "loc": [
+            1997.96484375,
+            791.6283168100306
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b4b29687af9",
+          "type": "Ruins",
+          "loc": [
+            2149.46484375,
+            796.3762392477038
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88fa1bbbb938",
+          "type": "City",
+          "loc": [
+            2084.982421875,
+            592.3865450502989
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_390bdb98881b",
+          "type": "Village",
+          "loc": [
+            2057.732421875,
+            580.7314203965593
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7938a869c9fa",
+          "type": "City",
+          "loc": [
+            1997.732421875,
+            598.5986022014871
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a59d8197a39",
+          "type": "City",
+          "loc": [
+            1882.841533180778,
+            475.9315862370608
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_995adbf9aaa9",
+          "type": "Town",
+          "loc": [
+            2068.537465229824,
+            664.5750917959953
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a58a9788a29",
+          "type": "Village",
+          "loc": [
+            1836.2310433502125,
+            568.8116070179648
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db1a4a7b0959",
+          "type": "Players",
+          "loc": [
+            1813.415236460717,
+            766.1891073305177
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da9a684a991a",
+          "type": "Village",
+          "loc": [
+            1836.1825896262394,
+            748.939449368469
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4bf81838b909",
+          "type": "Village",
+          "loc": [
+            1822.407227307399,
+            658.6907382071263
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_595ad978693b",
+          "type": "Dungeon",
+          "loc": [
+            1840.4209572845157,
+            682.4402672853092
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbc94aba89aa",
+          "type": "Town",
+          "loc": [
+            1730.1202326468344,
+            614.6902325858069
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1839a89ba898",
+          "type": "Village",
+          "loc": [
+            1568.6387299771168,
+            600.439082545159
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b78782bcaba",
+          "type": "Mine",
+          "loc": [
+            1606.9179061784896,
+            548.1901185731565
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a089a69dbfa",
+          "type": "Mine",
+          "loc": [
+            2070.5216437833715,
+            566.4371592013165
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_383bc91a3a88",
+          "type": "Mine",
+          "loc": [
+            2132.318745232647,
+            592.4366436658537
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88d95b884a29",
+          "type": "Shrine",
+          "loc": [
+            1872.642162471396,
+            544.940539924256
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2abad9184aa9",
+          "type": "Village",
+          "loc": [
+            1818.6642829900838,
+            472.4450211171257
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a4a09ca4919",
+          "type": "Town",
+          "loc": [
+            1997.6659992372236,
+            646.1900243887931
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e80adb48eb8a",
+          "type": "Village",
+          "loc": [
+            1980.6530320366132,
+            718.9385818809113
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bb91b4b08da",
+          "type": "Village",
+          "loc": [
+            1943.875,
+            730.6883488985386
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_392afa2a0aca",
+          "type": "City",
+          "loc": [
+            1906.3463958810069,
+            597.6909860607142
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b39198b994b",
+          "type": "Shrine",
+          "loc": [
+            2187.5929633867277,
+            712.4399797751472
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9c9882be81b",
+          "type": "City",
+          "loc": [
+            2318.2224446987034,
+            566.6916007376122
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fafb1a3bb9e8",
+          "type": "Town",
+          "loc": [
+            2191.8448703279937,
+            702.4374169690481
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_abf87afb7858",
+          "type": "Village",
+          "loc": [
+            2155.317028985507,
+            754.9363759839787
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4998688b3b6a",
+          "type": "Village",
+          "loc": [
+            2173.330758962624,
+            750.9364552971269
+          ],
+          "layer": "%5B%5BNew%20Continent%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 2192.5,
+              "lng": 608.6250546726928,
+              "id": "ID_ea9a9859fbf9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2154.875,
+              "lng": 618.2489612188366,
+              "id": "ID_fb99585bc84a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2128.375,
+              "lng": 593.8742892549934,
+              "id": "ID_eb09ab794b7a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2081.625,
+              "lng": 593.9983598192156,
+              "id": "ID_d9783a1a9aaa",
+              "targets": {
+                "vertexIds": [
+                  "ID_3bda7b5ada88"
+                ]
+              }
+            },
+            {
+              "lat": 2095.96484375,
+              "lng": 620.7047492345823,
+              "id": "ID_8be8e9490ada",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2070.25,
+              "lng": 633.2520775623269,
+              "id": "ID_1889ca185aeb",
+              "targets": {
+                "vertexIds": [
+                  "ID_9aba9afa6a88"
+                ]
+              }
+            },
+            {
+              "lat": 2068.21484375,
+              "lng": 664.9353951013268,
+              "id": "ID_abf8aacaeb29",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 2081.625,
+              "lng": 593.9983598192156,
+              "id": "ID_3bda7b5ada88",
+              "targets": {
+                "vertexIds": [
+                  "ID_d9783a1a9aaa"
+                ]
+              }
+            },
+            {
+              "lat": 2054.125,
+              "lng": 581.9994532730718,
+              "id": "ID_fa6a5b2ada89",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2023.5,
+              "lng": 569.0005467269282,
+              "id": "ID_68e9ea5b19e8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2010.75,
+              "lng": 599.4989065461438,
+              "id": "ID_39583a88bb7a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1995,
+              "lng": 599.7649803178306,
+              "id": "ID_3baa3a1a4998",
+              "targets": {
+                "vertexIds": [
+                  "ID_5a29abd85818"
+                ]
+              }
+            },
+            {
+              "lat": 1901.21484375,
+              "lng": 600.7134968654323,
+              "id": "ID_6a790849b86b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1857.75,
+              "lng": 575.75,
+              "id": "ID_7a1a59984b9a",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 1857.75,
+              "lng": 575.75,
+              "id": "ID_f9c84b997a8a",
+              "targets": {
+                "vertexIds": [
+                  "ID_d90a89aa39a8"
+                ]
+              }
+            },
+            {
+              "lat": 1831.96484375,
+              "lng": 630.7050772707391,
+              "id": "ID_c849698b0b89",
+              "targets": {
+                "vertexIds": [
+                  "ID_984b99b80bfb"
+                ]
+              }
+            },
+            {
+              "lat": 1822.71484375,
+              "lng": 662.1912997521504,
+              "id": "ID_a8784a18796b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1827.21484375,
+              "lng": 704.4228203819798,
+              "id": "ID_79fb6898ea59",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1832.21484375,
+              "lng": 750.9024821402536,
+              "id": "ID_0bdb1b0b2aab",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1794.46484375,
+              "lng": 787.1723830004373,
+              "id": "ID_4ababa495868",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 1831.96484375,
+              "lng": 630.7050772707391,
+              "id": "ID_984b99b80bfb",
+              "targets": {
+                "vertexIds": [
+                  "ID_c849698b0b89"
+                ]
+              }
+            },
+            {
+              "lat": 1817.96484375,
+              "lng": 632.7052959615104,
+              "id": "ID_18cb5a2aea5a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1772.46484375,
+              "lng": 620.460653885406,
+              "id": "ID_5b8ac9b83ae8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1729.96484375,
+              "lng": 614.463278174661,
+              "id": "ID_6aaabbc84bb8",
+              "targets": {
+                "vertexIds": [
+                  "ID_496a3b5b799b"
+                ]
+              }
+            },
+            {
+              "lat": 1687.71484375,
+              "lng": 612.464152937746,
+              "id": "ID_89d948f88979",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1652.21484375,
+              "lng": 600.469401516256,
+              "id": "ID_c96bbb598b4b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1610.21484375,
+              "lng": 606.466777227001,
+              "id": "ID_89483979fa98",
+              "targets": {
+                "vertexIds": [
+                  "ID_8be86a7888bb"
+                ]
+              }
+            },
+            {
+              "lat": 1568.71484375,
+              "lng": 600.7192921708704,
+              "id": "ID_3a8b8a58895a",
+              "targets": {
+                "vertexIds": [
+                  "ID_3a5b2bda880a",
+                  "ID_9a0b0989480b"
+                ]
+              }
+            },
+            {
+              "lat": 1522.71484375,
+              "lng": 588.4746500947659,
+              "id": "ID_f9bb08bac888",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 1857.75,
+              "lng": 575.75,
+              "id": "ID_d90a89aa39a8",
+              "targets": {
+                "vertexIds": [
+                  "ID_f9c84b997a8a"
+                ]
+              }
+            },
+            {
+              "lat": 1887.21484375,
+              "lng": 554.4165876949993,
+              "id": "ID_0bab785a2b4b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1886.96484375,
+              "lng": 522.4305839043592,
+              "id": "ID_0918b93aab2a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1882.71484375,
+              "lng": 476.2008128006998,
+              "id": "ID_8a5aaaca7ad9",
+              "targets": {
+                "vertexIds": [
+                  "ID_98e84b1b2b79"
+                ]
+              }
+            },
+            {
+              "lat": 1887.71484375,
+              "lng": 433.9692921708704,
+              "id": "ID_6b380989881b",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 1882.71484375,
+              "lng": 476.2008128006998,
+              "id": "ID_98e84b1b2b79",
+              "targets": {
+                "vertexIds": [
+                  "ID_8a5aaaca7ad9"
+                ]
+              }
+            },
+            {
+              "lat": 1859.21484375,
+              "lng": 473.95179690917047,
+              "id": "ID_ebd919faebfa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1841.46484375,
+              "lng": 470.7032183991836,
+              "id": "ID_cbfb8aa8a8a8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1813.21484375,
+              "lng": 474.4515782183992,
+              "id": "ID_2b19e99a39cb",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 2228.21484375,
+              "lng": 718.7306640909753,
+              "id": "ID_bbfa7b5af94a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2191.71484375,
+              "lng": 702.6017458813238,
+              "id": "ID_58fbe8b89888",
+              "targets": {
+                "vertexIds": [
+                  "ID_9a0a2be9e8b8",
+                  "ID_595b78db183b"
+                ]
+              }
+            },
+            {
+              "lat": 2154.71484375,
+              "lng": 714.5964973028139,
+              "id": "ID_5b39b98b0a89",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2150.71484375,
+              "lng": 756.8280179326432,
+              "id": "ID_6a5b88a949cb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2173.71484375,
+              "lng": 750.8306422218983,
+              "id": "ID_6ada086aa999",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2168.71484375,
+              "lng": 780.567630121009,
+              "id": "ID_3a089a5abb7b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2145.71484375,
+              "lng": 798.5597572532439,
+              "id": "ID_79fb0b3ba829",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 2228.21484375,
+              "lng": 718.7306640909753,
+              "id": "ID_88583a3aa9a9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2247.46484375,
+              "lng": 738.8358908004083,
+              "id": "ID_bb5ab87bea1a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2274.96484375,
+              "lng": 762.5755029887739,
+              "id": "ID_8b19c8f89a39",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2298.46484375,
+              "lng": 768.8227693541332,
+              "id": "ID_789a79ab78bb",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 2191.71484375,
+              "lng": 702.6017458813238,
+              "id": "ID_9a0a2be9e8b8",
+              "targets": {
+                "vertexIds": [
+                  "ID_58fbe8b89888",
+                  "ID_595b78db183b"
+                ]
+              }
+            },
+            {
+              "lat": 2187.21484375,
+              "lng": 660.3702252514944,
+              "id": "ID_aafaeb1a19b9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2182.96484375,
+              "lng": 642.3780981192594,
+              "id": "ID_9918786b8a08",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2192.5,
+              "lng": 608.6250546726928,
+              "id": "ID_caaa3a19891b",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 2191.71484375,
+              "lng": 702.6017458813238,
+              "id": "ID_595b78db183b",
+              "targets": {
+                "vertexIds": [
+                  "ID_9a0a2be9e8b8",
+                  "ID_58fbe8b89888"
+                ]
+              }
+            },
+            {
+              "lat": 2233.71484375,
+              "lng": 660.3702252514944,
+              "id": "ID_699a2858f85a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2242.71484375,
+              "lng": 612.3912195655344,
+              "id": "ID_badabb9a7ab8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2270.21484375,
+              "lng": 576.4069653010644,
+              "id": "ID_7988097928e9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2312.21484375,
+              "lng": 570.1596989357049,
+              "id": "ID_6ba8ab297a3a",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 1994.5,
+              "lng": 648.7279122321038,
+              "id": "ID_58dbfa8ad96b",
+              "targets": {
+                "vertexIds": [
+                  "ID_a8cbc9a8988b"
+                ]
+              }
+            },
+            {
+              "lat": 1995,
+              "lng": 599.7649803178306,
+              "id": "ID_5a29abd85818",
+              "targets": {
+                "vertexIds": [
+                  "ID_3baa3a1a4998"
+                ]
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 1994.5,
+              "lng": 648.7279122321038,
+              "id": "ID_a8cbc9a8988b",
+              "targets": {
+                "vertexIds": [
+                  "ID_58dbfa8ad96b"
+                ]
+              }
+            },
+            {
+              "lat": 1979.96484375,
+              "lng": 678.7084669776935,
+              "id": "ID_caca0b190b4b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1975.21484375,
+              "lng": 719.9404249890655,
+              "id": "ID_8bb8fa7a1b2a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1937.71484375,
+              "lng": 732.1850670651698,
+              "id": "ID_48e99b4b29c9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1872.96484375,
+              "lng": 817.3977802886718,
+              "id": "ID_1a182b794b4b",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 1734.96484375,
+              "lng": 432.6910810613792,
+              "id": "ID_e979b9da7a1b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1707.46484375,
+              "lng": 439.9379100451961,
+              "id": "ID_9a5ac8eadbdb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1707.21484375,
+              "lng": 456.18080259513044,
+              "id": "ID_2b9aa8d90b48",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1693.71484375,
+              "lng": 474.1729297273655,
+              "id": "ID_e928695849a9",
+              "targets": {
+                "vertexIds": [
+                  "ID_5a8829fa088a"
+                ]
+              }
+            },
+            {
+              "lat": 1707.71484375,
+              "lng": 492.4149475142149,
+              "id": "ID_197afbe8b88a",
+              "targets": {
+                "vertexIds": [
+                  "ID_cbe9eaebb9c9"
+                ]
+              }
+            },
+            {
+              "lat": 1711.96484375,
+              "lng": 498.4123232249599,
+              "id": "ID_894b49987a49",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 1707.71484375,
+              "lng": 492.4149475142149,
+              "id": "ID_cbe9eaebb9c9",
+              "targets": {
+                "vertexIds": [
+                  "ID_197afbe8b88a"
+                ]
+              }
+            },
+            {
+              "lat": 1693.46484375,
+              "lng": 497.91254191573114,
+              "id": "ID_9949d869eb39",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1702.96484375,
+              "lng": 522.1519354133255,
+              "id": "ID_eaf9da581b7a",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 1693.71484375,
+              "lng": 474.1729297273655,
+              "id": "ID_5a8829fa088a",
+              "targets": {
+                "vertexIds": [
+                  "ID_e928695849a9"
+                ]
+              }
+            },
+            {
+              "lat": 1665.71484375,
+              "lng": 449.68364557515673,
+              "id": "ID_1afaf9c89a38",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1647.21484375,
+              "lng": 413.94928196530105,
+              "id": "ID_18b87819287b",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 1568.71484375,
+              "lng": 600.7192921708704,
+              "id": "ID_3a5b2bda880a",
+              "targets": {
+                "vertexIds": [
+                  "ID_3a8b8a58895a",
+                  "ID_9a0b0989480b"
+                ]
+              }
+            },
+            {
+              "lat": 1564.46484375,
+              "lng": 558.38608033241,
+              "id": "ID_4b2aba3b385b",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 1535.71484375,
+              "lng": 666.3388431258201,
+              "id": "ID_fb2a09c9488a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1550.46484375,
+              "lng": 647.8469346843563,
+              "id": "ID_39ea2a396b1a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1563.96484375,
+              "lng": 617.8600561306313,
+              "id": "ID_e8e939c95ae9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1568.71484375,
+              "lng": 600.7192921708704,
+              "id": "ID_9a0b0989480b",
+              "targets": {
+                "vertexIds": [
+                  "ID_3a5b2bda880a",
+                  "ID_3a8b8a58895a"
+                ]
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 1729.96484375,
+              "lng": 614.463278174661,
+              "id": "ID_496a3b5b799b",
+              "targets": {
+                "vertexIds": [
+                  "ID_6aaabbc84bb8"
+                ]
+              }
+            },
+            {
+              "lat": 1721.71484375,
+              "lng": 665.8390618165913,
+              "id": "ID_cb091b288b5b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1712.21484375,
+              "lng": 678.33359454731,
+              "id": "ID_3a1bab2ab908",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1725.96484375,
+              "lng": 696.325721679545,
+              "id": "ID_8bf9cb496828",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 1610.21484375,
+              "lng": 606.466777227001,
+              "id": "ID_8be86a7888bb",
+              "targets": {
+                "vertexIds": [
+                  "ID_89483979fa98"
+                ]
+              }
+            },
+            {
+              "lat": 1601.96484375,
+              "lng": 666.5887337804344,
+              "id": "ID_88cada8aa9eb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1610.71484375,
+              "lng": 677.8338132380813,
+              "id": "ID_bb8bbb087978",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 2053.21484375,
+              "lng": 633.500564951159,
+              "id": "ID_b8484b8988e9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2070.25,
+              "lng": 633.2520775623269,
+              "id": "ID_9aba9afa6a88",
+              "targets": {
+                "vertexIds": [
+                  "ID_1889ca185aeb"
+                ]
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#000000",
+          "vertices": [
+            {
+              "lat": 2117.9615863490067,
+              "lng": 666.7783443620871,
+              "id": "ID_18294a0a6a3b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2117.9615863490067,
+              "lng": 666.7783443620871,
+              "id": "ID_c979fb384ab8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2136.346362659857,
+              "lng": 678.0855580765237,
+              "id": "ID_bb78f9e87859",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2104.173004115869,
+              "lng": 695.4068134176385,
+              "id": "ID_1b3aaabb286b",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "1. World/World Map.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Village",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAAE3CAYAAADWoH34AAAAAXNSR0IArs4c6QAACF5JREFUeF7t2lHozf8dx/GXlKUUKcuV3agVMY1oRjMXYkRpsrILSkq52NqI0W6mqO1iatkNsVbmwlKiRJkia2KZmqbcUJqmiVL/0mS9v/uds+P3+43zPb/nD9Pzc/fz+35f53MeXt/P93O+5zchDkxgApZkUMQESyCmmKAAGGUzxQQFwCibKSYoAEbZTDFBATDKZooJCoBRNlNMUACMspliggJglM38P8H8apKdSZYNMN/rSX6d5EWSZ0leDZDxwU8Zr2b+OMnPwXdzc+g/5s9gJh41HpjfSXIBn2lSoEvGIReLpDG/nuRGki/VDFevXp2DBw+2nuyePXty5cqVzJw5M8+ePcurV92r/JdJftg68AOdQGP+KcnimvusWbNy69atzJgxo9VbuXz5clatWpWJEyfm6tWruX//frZv396bsTXJb1qFfqCDScxfJPlRzXvSpEm5ceNGFi5c2OptVAvnz5+fx48fN43ev39/c35hHj9+vDdrZZI/tAr/AAdTmN9P8tvOfI8ePZqdO+tG3m5s27YtJ0+ezMqVK3Pp0qWmnTXqMl+6dGlu377dCfx7kjVJ/tLuFcb3aALzm0lqK9OMrVu35sSJE61nfe7cuWzYsKFZJ+/evTtieXj06FEWLVqUp0+fdrL/mGRp6xcaxxPGijl1qB1fqTkuWLCgubwnT57casp1ec+dO7eBqkZWM2ssX748hfjw4cPm51pP16xZk9evX3fyf5rkZ61ebBwPHivm75J8r+Y3derU5oYze/bs1tPdsmVLTp061ayRvXf/4ZgVfPjw4ezbt6/3Nb6b5PetX3QcThgL5reSXO3M6fz581m7dm3rKZ45cyabNm0asU6O1sxO+MaNG3P27NnOj3Xdf7n1C4/DCWPB/GuSOTWn4Y3qd551WdflXaPWyVov+xkvXrzIkiVLmm3T0FiUpHt36idjPI4ZFHN6kn/WhKZPn95cmp07b5tJVrsuXryYzZs3d9fJfs+/d+9ejhw50jn8B0m6P/SbQR83KGbNozAL9VMYBVmgH3UMijmvrsya+Zw5c7JsWfsHQ7V3rD1ljdOnTw9046qt0tCoS7z7w8cSHRSzduRHa9K1Oa9NettR6960adO66+W8efX/025MmPDW9Ad9L+1e9B1HDzqBEZj1ke/OnTvN5+kpU6aMeMmXL19mxYoVzV702LFjGQ2z1s8DBw40G/9du3a9ldHZEu3duzeHDh1qfvfZYtae8Pr163n+/Hmz5xw+Oni1JFy7dm1UzNpr1p6zF6yTI2aPqJj/e30YcZnXZ+snT540l2g9NRo+Ojec2kuuX79+1GY+ePCgeY5ZS8Hixc2TvO6oJeTmzZtv/e6zvczbruLegP4r1t0a1cPfehDcdtTDimpbjdpetX04Uuf1PJKrp1bL286BPn7Qu3nN429J6hvIT2FsSXLqY09kLJjfHvo6tgtaHylrvetn9DZz9+7dfW/a64l7rZ1D44uhby0/ia8xxoLZeUP1Jc8/6ofaEtXWqJ/Ru2bWVmn4p6h6jln7zho7duzoRnYe1w39wyfRyM7kCMzaVDaCJOaFCxeybt26Zp5v3rwR810NfV8zxQQvczHF7Od28c5j6vvYf9URg97NxzCD+iLv0RjOR08lbkA1ofqTmG+gM3t/WD06+sn7D/twR1CYXxvac7YFfZnkV0N/djj8CXN9qqk/AKtv6Xp/1/lzw4++SR/+30RhdnLrku9v157Ul9//+Tz5mQwa8zNhGextiDmY26hniSkmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG/RtnafhHp1ZAzwAAAABJRU5ErkJggg==",
+      "tags": [
+        "settlement",
+        "Village",
+        "Thorp",
+        "Hamlet"
+      ],
+      "minZoom": 1,
+      "maxZoom": null
+    },
+    {
+      "type": "City",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,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",
+      "tags": [
+        "city"
+      ],
+      "minZoom": 0.5,
+      "maxZoom": null
+    },
+    {
+      "type": "Ruins",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,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",
+      "tags": [
+        "dungeon"
+      ],
+      "minZoom": 1,
+      "maxZoom": null
+    },
+    {
+      "type": "Camp",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,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",
+      "tags": [
+        "settlement"
+      ],
+      "minZoom": 1.5,
+      "maxZoom": null
+    },
+    {
+      "type": "Dungeon",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,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",
+      "tags": [
+        "dungeon"
+      ],
+      "minZoom": 1.5,
+      "maxZoom": null
+    },
+    {
+      "type": "Fort",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,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NACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACinEzLBA2AKCfTMkEDIMrJtEzQAIhyMi0TNACifgMFyMhHbRomSwAAAABJRU5ErkJggg==",
+      "tags": [
+        "settlement"
+      ],
+      "minZoom": 0.5,
+      "maxZoom": null
+    },
+    {
+      "type": "Shrine",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,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",
+      "tags": [
+        "landmark"
+      ],
+      "minZoom": 1,
+      "maxZoom": null
+    },
+    {
+      "type": "Inn",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,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",
+      "tags": [
+        "inn"
+      ],
+      "minZoom": 1.5,
+      "maxZoom": null
+    },
+    {
+      "type": "Landmark",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,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",
+      "tags": [
+        "landmark"
+      ],
+      "minZoom": 0.5,
+      "maxZoom": null
+    },
+    {
+      "type": "Mine",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,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",
+      "tags": [
+        "dungeon"
+      ],
+      "minZoom": 1.5,
+      "maxZoom": null
+    },
+    {
+      "type": "Capitol",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,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",
+      "tags": [
+        "city"
+      ],
+      "minZoom": 0.5,
+      "maxZoom": null
+    },
+    {
+      "type": "Town",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,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",
+      "tags": [],
+      "minZoom": 1,
+      "maxZoom": null
+    },
+    {
+      "type": "Nation",
+      "iconName": "flag",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "country"
+      ],
+      "minZoom": null,
+      "maxZoom": 0.5
+    },
+    {
+      "type": "Players",
+      "iconName": "heart",
+      "color": "#be4646",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "Players"
+      ],
+      "minZoom": 0,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 1,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "900px",
+    "image": "[[New Continent Map.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[New Continent Map.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 3,
+    "minZoom": -1.5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "Lost-Aldria",
+    "lock": true,
+    "recenter": true,
+    "noScrollZoom": true,
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        3327.2,
+        2883.8
+      ]
+    ],
+    "width": "100%",
+    "lat": 1900,
+    "long": 650,
+    "unit": "miles",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}
