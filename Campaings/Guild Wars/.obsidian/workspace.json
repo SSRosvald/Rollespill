@@ -1,0 +1,553 @@
+{
+  "main": {
+    "id": "d1ca53fb381ba06b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5de42b61ef6d62d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "171f9213de8e0335",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "AU Hariaz Azfik-LAPTOP-C0M4ND3R",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Characters/AU Hariaz Azfik-LAPTOP-C0M4ND3R.pdf\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "AU Hariaz Azfik",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/AU Hariaz Azfik.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "AU Harias Stalwart Anvil Azfik screenshot",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Characters/AU Harias Stalwart Anvil Azfik screenshot.png\"}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/AU Hariaz Azfik.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "bbbbb7cc348e3531",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ca705b9d9d5d951",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "5E",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5E/5E.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Powers.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "297a1d653f05db2f",
+        "type": "split",
+        "children": [
+          {
+            "id": "4768140bf560c3d1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "428dde5138f0159f",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Plotlines/Quests and Questions.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "f3cc3290af775a2d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c3de536fae933748",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 1,
+                  "stack": [
+                    {
+                      "title": "Sessions",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sessions/Sessions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Plotlines/Agenda.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "1c472b5e7ecb29c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "429177f1b7cd7b92",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Powers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Powers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Session 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sessions/Session 1.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Sessions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52e2ae9fe12fe120",
+    "type": "split",
+    "children": [
+      {
+        "id": "31a18dc11b94c525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82b31aec59472905",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a662ebcec148b952",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abf923e3c249d289",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0837f973323daad",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1bcb3cf3110159fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9d06830dd11e9b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cadd12ae0369d7c6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8d816c479f45a8d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_899b2a29394a",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 6,
+                    "month": 8,
+                    "year": 102
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                }
+              }
+            }
+          },
+          {
+            "id": "8321ce934af693bf",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "e40d2d99d19fbb97",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Powers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b824e9a63c745468",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Powers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6f5e52b23f77beb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Powers.md"
+              }
+            }
+          },
+          {
+            "id": "5f1cd714053cdab2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "a81e71fb64e321ae",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "c32b26604b73c162",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian42-brat:BRAT": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "calendarium:Open Calendarium": false,
+      "media-extended:Open media": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "1ca705b9d9d5d951",
+  "lastOpenFiles": [
+    "Sessions/Sessions.md",
+    "Powers.md",
+    "Sessions/Session 6.md",
+    "Sessions/Session 5.md",
+    "Sessions/Session 4.md",
+    "Sessions/Session 3.md",
+    "Sessions/Session 1.md",
+    "z_Templates/zz_asset-files/MapPlaceholder.png",
+    "z_Templates/zz_asset-files/ImagePlaceholder.png",
+    "z_Templates/zz_asset-files",
+    "z_Templates/3_Markdown/Insert Rollable Table/Insert Rollable Table - d8.md",
+    "z_Templates/3_Markdown/Insert Rollable Table/Insert Rollable Table.md",
+    "z_Templates/3_Markdown/Insert Rollable Table/Insert Rollable Table - d6.md",
+    "z_Templates/3_Markdown/Insert Rollable Table/Insert Rollable Table - d4.md",
+    "z_Templates/3_Markdown/Insert Rollable Table/Insert Rollable Table - d20.md",
+    "z_Templates/3_Markdown/Insert Rollable Table/Insert Rollable Table - d12.md",
+    "z_Templates/3_Markdown/Insert Rollable Table/Insert Rollable Table - d100.md",
+    "z_Templates/3_Markdown/Insert Rollable Table/Insert Rollable Table - d10.md",
+    "z_Templates/3_Markdown/Combat Templates/Insert Random Encounter Table (Initiative Tracker).md",
+    "z_Templates/3_Markdown/Combat Templates/Insert Multiple Encounters Table (Initiative Tracker).md",
+    "z_Templates/3_Markdown/Combat Templates/Insert Multiple Encounters (Initiative Tracker) 1.md",
+    "z_Templates/3_Markdown/Combat Templates/Insert Monster Into Table (Initiative Tracker).md",
+    "z_Templates/3_Markdown/Combat Templates/Insert Monster (TTRPG Statblock).md",
+    "z_Templates/3_Markdown/Combat Templates/Insert Encounter (Initiative Tracker).md",
+    "z_Templates/3_Markdown/Combat Templates/Insert Customer Monster (TTRPG Statblock).md",
+    "z_Templates/3_Markdown/Combat Templates/Insert Custom Encounter Table (Initiative Tracker).md",
+    "z_Templates/3_Markdown/Combat Templates/Insert Custom Encounter (Initiative Tracker).md",
+    "z_Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out Boxes (Admonition).md",
+    "z_Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out - Treasure.md",
+    "z_Templates/3_Markdown/Insert Rollable Table",
+    "z_Templates/3_Markdown/Combat Templates",
+    "z_Templates/3_Markdown/Call Out Boxes (Admonition)",
+    "z_Templates/3_Markdown",
+    "z_Templates/2_Mechanics Gallery/Other",
+    "z_Templates/2_Mechanics Gallery/Mechanic Sources",
+    "z_Templates/2_Mechanics Gallery/Gameplay",
+    "z_Templates/2_Mechanics Gallery/Game Mastering",
+    "z_Templates/2_Mechanics Gallery/Equipment",
+    "Characters/AU Harias Stalwart Anvil Azfik screenshot.png",
+    "z_Assets/Minotaurens Hvilested 1.png",
+    "z_Assets/Minotaurens Hvilested.png",
+    "z_Assets/Danaga.png",
+    "z_Assets/8eea8bf8aa6ba2d33ebab780350f970a.jpg",
+    "z_Assets/EmbeddedFiles/Whisperer of the Wilds (David Gaillet) [FRF] {144}.jpg",
+    "z_Assets/EmbeddedFiles/Set Adrift (Karl Kopinski) [KTK] {54}.jpg",
+    "z_Assets/marshal.png"
+  ]
+}
