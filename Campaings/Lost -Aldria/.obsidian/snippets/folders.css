@@ -1,0 +1,34 @@
+.nav-folder-title[data-path="ITLED"],
+.nav-folder-title[data-path="ITLED"] + .nav-folder-children {
+	--folder-icon: "\icon-code-here";
+	--folder-font: "font icon pack name";
+	
+	/*--folder-vertical-alignment: -2px; */ 
+	/* Optional, helps with aligning icons vertically */
+	
+	--folder: #000000; /*Folder color here*/
+	--accent-color: 0, 0, 0; /*RGB Values Only: ###, ###, ### */
+
+/*----Folder Styling----*/
+.nav-folder-children,
+.nav-folder-title {
+    --explorer-root-folder-background: rgba(var(--accent-color), 0.4);
+    --explorer-root-background: rgba(var(--accent-color), 0.2);
+    --explorer-root-folder-color: var(--folder);
+    --explorer-root-folder-open-color: var(--folder);
+    
+    --folder-open: var(--folder);
+    --explorer-root-border-color: var(--folder);
+    --nav-indentation-guide-color: var(--folder);
+}
+/*.obsidian-icon-folder-icon { color: var(--folder); }*/
+.theme-light .nav-folder-title {
+    --explorer-root-folder-open-color: rgb(var(--accent-color));
+    --folder-open: rgb(var(--accent-color));
+}
+
+.nav-folder-title .nav-folder-title-content::before {
+    text-align: center;
+    margin-right: 4px;
+    vertical-align: var(--folder-vertical-align);
+}
