@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiMapSearch",
+      "FasQuestion",
+      "RiMagicFill",
+      "FasFaceLaughSquint",
+      "FasWandMagicSparkles"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "1. The Party": "FasUserGroup",
+  "1. World": "FasEarthAsia",
+  "2. Mechanics": "FasBookSkull",
+  "2. Mechanics/Bestiary": "RaMonsterSkull",
+  "2. Mechanics/Non-Player Character": "FasFaceLaughSquint",
+  "2. Mechanics/Backgrounds": "RiWalkLine",
+  "2. Mechanics/Books": "LiBookOpen",
+  "2. Mechanics/Classes": "FasUserShield",
+  "2. Mechanics/Feats": "FasPersonRunning",
+  "2. Mechanics/Items": "FasWandMagicSparkles",
+  "2. Mechanics/Spells": "RiMagicFill",
+  "2. Mechanics/Cultures": "RiHomeGearFill",
+  "2. Mechanics/Heritages": "RaDroplet",
+  "2. Session Journals": "FasBookJournalWhills",
+  "2. Mechanics/Guilds and Groups": "SiGuilded",
+  "0. GMscreen": "FasQuestion",
+  "0. GMscreen/0. GMscreen.md": "FasQuestion",
+  "2. Mechanics/Deities": "FasChurch",
+  "2. Mechanics/Dangers": "RaExplosion",
+  "1. World/World Map.md": "TiMapSearch"
+}
