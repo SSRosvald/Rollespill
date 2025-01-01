@@ -1,0 +1,112 @@
+{
+  "targetAttributes": [
+    "tags"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "tag",
+      "name": "tags",
+      "value": "spell",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "650e-0b48",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "tags",
+      "value": "Magic-Item",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "e1d9-c5b7",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "tags",
+      "value": "NPC",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "27a2-c8b5",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "tags",
+      "value": "Player",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "8ada-593b",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "tags",
+      "value": "Adventuring",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "aeae-711a",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "tags",
+      "value": "Political",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "65b0-7dfc",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "tags",
+      "value": "Feat",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "cd1a-5bf9",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "tags",
+      "value": "Religious",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "87fb-9d42",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}
