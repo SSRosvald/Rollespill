@@ -1,0 +1,582 @@
+{
+  "main": {
+    "id": "d1ca53fb381ba06b",
+    "type": "split",
+    "children": [
+      {
+        "id": "68ce786ccd62130c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f65822ff69bdac49",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Session Journals/Yavs Landing/Yavs Landing.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Yavs Landing"
+            }
+          },
+          {
+            "id": "c547b14a9f974906",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Qal-sisma slettene",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Countries/Qal-sisma slettene.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sørlige Sanddyner",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Countries/Sørlige Sanddyner.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Qal-sisma slettene",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Countries/Qal-sisma slettene.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":5}"
+                },
+                {
+                  "title": "Cori-Land",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Countries/Cori-Land.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":43.5630787037037}"
+                },
+                {
+                  "title": "Qal-sisma slettene",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Countries/Qal-sisma slettene.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Utmarken",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Countries/Utmarken.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":0},\"to\":{\"line\":37,\"ch\":0}},\"scroll\":7}"
+                },
+                {
+                  "title": "Mahendrapur",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Countries/Mahendrapur.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":64,\"ch\":0},\"to\":{\"line\":64,\"ch\":0}},\"scroll\":42.6484375}"
+                },
+                {
+                  "title": "Cori-Land",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Countries/Cori-Land.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":0},\"to\":{\"line\":62,\"ch\":0}},\"scroll\":43.5630787037037}"
+                },
+                {
+                  "title": "Sørlige Sanddyner",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Countries/Sørlige Sanddyner.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":11},\"to\":{\"line\":34,\"ch\":11}},\"scroll\":8.405078125}"
+                },
+                {
+                  "title": "Mahendrapur",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Countries/Mahendrapur.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":67,\"ch\":335},\"to\":{\"line\":67,\"ch\":335}},\"scroll\":13}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. World/Countries/Mahendrapur.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mahendrapur"
+            }
+          },
+          {
+            "id": "7c04f2caef8c4155",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character Creation"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52e2ae9fe12fe120",
+    "type": "split",
+    "children": [
+      {
+        "id": "31a18dc11b94c525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82b31aec59472905",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a662ebcec148b952",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "56fad385dcb58329",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. GMscreen/0. GMscreen.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "0. GMscreen"
+            }
+          },
+          {
+            "id": "3fc7a7829cb01571",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.5
+  },
+  "right": {
+    "id": "1bcb3cf3110159fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9d06830dd11e9b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cadd12ae0369d7c6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d8d816c479f45a8d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_899b2a29394a",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 9,
+                    "month": 8,
+                    "year": 102
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_eb2babd919e8"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "b824e9a63c745468",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ability Scores.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ability Scores"
+            }
+          },
+          {
+            "id": "5f1cd714053cdab2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a81e71fb64e321ae",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e023f1a1f6f27612",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "52012c0af906e045",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ability Scores.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ability Scores"
+            }
+          },
+          {
+            "id": "9134e725717b9197",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Character Creation.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Character Creation"
+            }
+          },
+          {
+            "id": "85c6d2a1f37b06f3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3c411476dcfa290f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "ability Scores.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for ability Scores"
+            }
+          },
+          {
+            "id": "4fa9a0b2fdb6c557",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "media-extended:Open media": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian42-brat:BRAT": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "7c04f2caef8c4155",
+  "lastOpenFiles": [
+    "1. World/Countries/Mahendrapur.md",
+    "2. Mechanics/Feats/Blood Pact.md",
+    "2. Mechanics/Classes/Warlock.md",
+    "2. Mechanics/Character Creation.md",
+    "2. Mechanics/Items/Glory's Glaive.md",
+    "Character Creation.md",
+    "2. Mechanics/Combat Maneuvers/Basic Maneuvers.md",
+    "2. Mechanics/Combat Maneuvers/Combat Maneuvers.md",
+    "z_Templates/2_Mechanics Gallery/Characters/Template - Destiny.md",
+    "2. Mechanics/Combat Maneuvers/Agile Feint.md",
+    "z_Templates/2_Mechanics Gallery/Abilities/Template - Combat Maneuver.md",
+    "2. Mechanics/Ability Scores.md",
+    "2. Mechanics/Determine Ability Scores.md",
+    "ability Scores.md",
+    "2. Mechanics/Spells/spiritual weapon.md",
+    "2. Mechanics/Spells/blur.md",
+    "2. Mechanics/Spells/speak with dead.md",
+    "2. Mechanics/Spells/divine favor.md",
+    "2. Mechanics/Spellcasting/Inflict Wounds.md",
+    "2. Mechanics/Spellcasting/Spellcasting.md",
+    "2. Mechanics/Spellcasting/dream.md",
+    "2. Mechanics/Spellcasting/Ceremony.md",
+    "2. Mechanics/Spellcasting/Alarm.md",
+    "2. Mechanics/Spellcasting/Seeming.md",
+    "2. Mechanics/Spellcasting/Vicious Mockery.md",
+    "2. Mechanics/Spellcasting/Accelerando.md",
+    "2. Mechanics/Spellcasting",
+    "z_Assets/wi6in6zq.bmp",
+    "z_Assets/957nrkwi.bmp",
+    "z_Assets/nrm3ya7f.bmp",
+    "2. Mechanics/Books/Adventurers Guide.pdf",
+    "1. The Party/oppdrag.PNG",
+    "Dungeon b2.jpg",
+    "dungeon b1.jpg",
+    "Temple f1.jpg",
+    "Temple cellar.jpg",
+    "Temple f2.jpg",
+    "tsr09063 - N1 - Against the Cult of the Reptile God.pdf",
+    "Untitled",
+    "z_Assets/Default_A_majestic_obsidian_longsword_with_a_mesmerizing_ether_0.jpg",
+    "2. Mechanics/Books/Monstrous Menagerie.pdf",
+    "blindness",
+    "1. The Party/Monsoon.pdf",
+    "2. Mechanics/Books/Trials and Treasures.pdf",
+    "1. World/Other/Lost-aldria new hex grid 24miles per-tmp.wxx",
+    "1. World/Other/Lost-aldria new hex grid 24miles per-autosave-tmp.wxx"
+  ]
+}
